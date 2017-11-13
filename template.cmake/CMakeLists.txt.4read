@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.7.0)
 
 set(APP_NAME TempProject4Read)
+set(CMAKE_CXX_STANDARD 11)
 
 project(${APP_NAME})
 
